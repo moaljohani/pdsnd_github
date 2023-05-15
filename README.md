@@ -1,35 +1,30 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-### Date created
+### 16/5/2023
 Include the date you created this project and README file.
 
-### Project Title
+### Github Project for Udacity
 Replace the Project Title
 
-### Description
+### How to work with Git & Github
 Describe what your project is about and what it does
 
 ### Files used
 Include the files used
 
-### Credits
+### Thank Udacity for this project
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 <<<<<<< HEAD
-## line 17 
-this is fun :)
-||||||| 06513a5
 
-<<<<<<< HEAD
-=======
+### Updating READEME.md
+fixed an error with this file
 
 ### refactoring
 changes to refactoring branch
 
-### refactoring 2.0
+### refactoring 
 seconed change to refactoring branch
->>>>>>> refactoring
-||||||| 06513a5
-=======
+
 ### update 
 for the doc branch
 
