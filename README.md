@@ -28,9 +28,4 @@ seconed change to refactoring branch
 ### update 
 for the doc branch
 
-### more change
-changes to the redme file 
 
-### seconed change
-for the readme file 
->>>>>>> documentation
