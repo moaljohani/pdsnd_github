@@ -19,6 +19,7 @@ It's important to give proper credit. Add links to any repo that inspired you or
 this is fun :)
 ||||||| 06513a5
 
+<<<<<<< HEAD
 =======
 
 ### refactoring
@@ -27,3 +28,14 @@ changes to refactoring branch
 ### refactoring 2.0
 seconed change to refactoring branch
 >>>>>>> refactoring
+||||||| 06513a5
+=======
+### update 
+for the doc branch
+
+### more change
+changes to the redme file 
+
+### seconed change
+for the readme file 
+>>>>>>> documentation
