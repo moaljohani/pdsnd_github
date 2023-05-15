@@ -19,10 +19,6 @@ It's important to give proper credit. Add links to any repo that inspired you or
 ### Updating READEME.md
 fixed an error with this file
 
-### refactoring
-changes to refactoring branch
 
-### refactoring 
-seconed change to refactoring branch
 
 
