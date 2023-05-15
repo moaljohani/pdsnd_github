@@ -14,5 +14,16 @@ Include the files used
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+<<<<<<< HEAD
 ## line 17 
 this is fun :)
+||||||| 06513a5
+
+=======
+
+### refactoring
+changes to refactoring branch
+
+### refactoring 2.0
+seconed change to refactoring branch
+>>>>>>> refactoring
